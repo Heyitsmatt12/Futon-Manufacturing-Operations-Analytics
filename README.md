@@ -89,7 +89,7 @@ I added filters to make it easier to explore the data:
 
 ## Dataset
 
-This project uses **synthetic manufacturing data** created for portfolio and analytics practice. It does not contain actual company or customer information.
+This project uses synthetic manufacturing data created for portfolio and analytics practice. It does not contain actual company or customer information.
 
 ## Dashboard Link
 
